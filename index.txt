@@ -1,4 +1,4 @@
-possessions_1, 9 - possessions_1, Possessions 1
+possessions_1, 9 - possessions_1.txt, Possessions 1
 journey_5, 8 - journey_5, Journey 5
 apocalypse_1, 7 - apocalypse_1.txt, Apocalypse 1
 journey_4, 6 - journey_4.txt, Journey 4
