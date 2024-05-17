@@ -1,4 +1,4 @@
-soldier_1, 11 - soldier, Soldier
+soldier_1, 11 - soldier_1, Soldier
 demons_3, 10 - demons, Demons
 possessions_1, 9 - possessions_1.txt, Possessions 1
 journey_5, 8 - journey_5, Journey 5
