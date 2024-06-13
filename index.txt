@@ -9,3 +9,4 @@ ppd_11, 4 - ppd_11.txt, PPD 11
 vacuità_realtà_7, 3 - vacuità_realtà_7.txt, Vacuità Realtà
 ombra_dade, 2 - ombra_dade.txt, Ombra su Dade City, dade_fig_1.txt, fig_1, dade_fig_2.txt, fig_2
 terremoto_dimenticato, 1 - terremoto_dimenticato.txt, Il Terremoto Dimenticato
+egregores_1, 12 - egregores_1, Egregores 1
