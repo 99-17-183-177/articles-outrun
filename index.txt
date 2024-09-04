@@ -1,4 +1,4 @@
-waters_1, 13 - waters, Waters 1
+waters_1, 13 - waters_1, Waters 1
 egregores_1, 12 - egregores_1, Egregores 1
 soldier_1, 11 - soldier_1, Soldier
 demons_3, 10 - demons, Demons
